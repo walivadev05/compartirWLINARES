@@ -1,0 +1,18 @@
+git init   --indicando que voy a utilizar git
+--Para primera vez y despues de algun cambio en su codigo.
+git add .  --agregando al repositorio git
+git status --para verificar los cambios, detecta cambios código
+git commit -m "first commit"
+git remote add origin https://github.com/walivadev05/compartirWLINARES
+or
+git push -u origin master
+
+git log  --para ver los commit o cambios durante el proyecto
+git log -p -1   --para ver la cantidad de comit X:cuántos quieres ver
+
+
+======================================================================
+Para cuando no se pueda subir al repositorio por tema de expiracion:
+======================================================================
+https://www.youtube.com/watch?v=ePCBuIQJAUc&list=PLU4rnt3vQM5Eg_hkltnSaFfEbXgYMMmdT&index=3
+
